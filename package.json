@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "jsonwebtoken": "^8.5.1",
     "register-service-worker": "^1.7.1",
     "token": "^0.1.0",
